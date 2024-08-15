@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\DX11.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\02. Color.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\07. LightHelper.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\07. Lighting.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\08. Basic.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\10. Basic.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\12. TreeSprite.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\13. VecAdd.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\14. Blur.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\15. Tessellation.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\16. TriTessellation.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\17. BezierTessellation.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\19. InstancedBasic.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\21. Sky.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\22. Basic.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\23. DisplacementMap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\23. NormalMap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\24. Terrain.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\25. Fire.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\25. Rain.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\26. Basic.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\26. BuildShadowMap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\26. DebugTexture.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\27. AmbientOcclusion.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\28. Basic.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\28. Ssao.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\28. SsaoBlur.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\28. SsaoNormalDepth.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\31. NormalMapSkinned.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

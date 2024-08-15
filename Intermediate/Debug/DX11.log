@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\DX11\12. TreeBillboardDemo.h(83,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  DX11.vcxproj -> C:\Users\hawonOJ\Documents\CPP\C-21)+Animation\DX11\Binaries\DX11.exe
