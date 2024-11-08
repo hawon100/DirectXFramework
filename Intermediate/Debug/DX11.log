@@ -1,0 +1,97 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\02. Color.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\07. LightHelper.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\07. Lighting.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\08. Basic.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\10. Basic.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\12. TreeSprite.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\13. VecAdd.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\14. Blur.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\15. Tessellation.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\16. TriTessellation.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\17. BezierTessellation.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\19. InstancedBasic.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\21. Sky.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\22. Basic.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\23. DisplacementMap.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\23. NormalMap.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\24. Terrain.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\25. Fire.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\25. Rain.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\26. Basic.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\26. BuildShadowMap.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\26. DebugTexture.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\27. AmbientOcclusion.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\28. Basic.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\28. Ssao.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\28. SsaoBlur.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\28. SsaoNormalDepth.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\hawon\C++\DirectXFramework-main\Binaries\31. NormalMapSkinned.cso
+DirectXTex_debug.lib(DirectXTexImage.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexImage.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(DirectXTexWIC.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexWIC.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(DirectXTexD3D11.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexD3D11.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(DirectXTexDDS.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexDDS.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(DirectXTexTGA.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexTGA.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(DirectXTexUtil.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexUtil.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(DirectXTexConvert.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexConvert.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexMipMaps.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(DirectXTexCompress.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexCompress.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(BC.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(BC.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(BC4BC5.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(BC4BC5.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_debug.lib(BC6HBC7.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(BC6HBC7.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  DX11.vcxproj -> C:\Users\hawon\C++\DirectXFramework-main\Binaries\DX11.exe
